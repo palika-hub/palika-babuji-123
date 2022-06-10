@@ -1,1 +1,6 @@
 hi sir this is palika
+git log
+git status
+git add filename
+git commit -m "Typee your message here"
+git push
