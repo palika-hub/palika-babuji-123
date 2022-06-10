@@ -3,4 +3,5 @@ git log
 git status
 git add filename
 git commit -m "Typee your message here"
-git push
+igit push
+Today I lLearned many new git commands in th lecture.I learned about the ssh keys and  their authentication.When ssh keyis copied amnd i learnt about how to add the clones and repository 
